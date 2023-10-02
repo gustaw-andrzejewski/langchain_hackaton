@@ -1,6 +1,6 @@
 # Langchain Hackathon Project: GitHub Repo Query Tool
 
-During an AI lang chain hackathon, I crafted this modest terminal app to delve into GitHub repositories and interact with OpenAI language models. Supply it with a GitHub repo URL, and it'll fetch the repo, transform it into a vector store, and enable you to pose questions about the code using OpenAI. The core action happens in `main.py`.
+During an AI lang chain hackathon, I crafted this modest terminal app to delve into GitHub repositories and interact with OpenAI language models. Supply it with a GitHub repo URL, and it'll fetch the repo, transform it into a vector store, and enable you to pose questions about the code using OpenAI. The core action happens in `main.py`, but this is just a simple exploration of the langchain capabilities with a potential for further development
 
 ## Core Utilization
 
